@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+h1 {
+	color: #FFFFFf;
+	text-align: center;
+	}
+body
+ {
+	background: darkgoldenrod;
+	 align-content: center;
+	}
+p
+{
+	text-align: center;
+	font-family: impact,Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	font-size: 4em;
+	}
